@@ -10,6 +10,6 @@ To do this, I'll need to collect and analyze data about mobile apps available on
 
 ## Technologies
 * [Python](https://www.python.org):
-  * **data cleaning:** opening .csv files, Python functions, checking the data for empty strings and null values, getting rid of a column shift using a del statement, checking for duplicates, Python dictionaries, converting to floats, looping, ASCII standard, 
+  * **data cleaning:** opening .csv files, Python functions, checking the data for empty strings and null values, getting rid of a column shift using a del statement, checking for duplicates, Python dictionaries, converting to floats, looping, ASCII standard
   * **data analysis:** frequency tables, nested loops 
 * [Jupyter Notebook](https://jupyter.org)
